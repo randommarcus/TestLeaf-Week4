@@ -105,7 +105,7 @@ public class Snapdeal {
 		
 		
 		//Close all windows
-		//driver.quit();
+		driver.quit();
 		
 	}
 
